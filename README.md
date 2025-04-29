@@ -81,6 +81,9 @@ def show_state():
             screen.blit(t.icon, (t.x, t.y))
     pg.display.update()
 ```
+### ***Game-Play Image***
+![image](https://github.com/user-attachments/assets/760604ad-0573-460e-9392-dfa1621b68c9)
+
 
 ## **Future Enhancements**
 - Add AI player for **single-player mode**.
